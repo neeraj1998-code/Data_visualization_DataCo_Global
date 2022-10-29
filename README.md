@@ -11,4 +11,5 @@ chain analytics and also the relevance of this topic to our current time. First,
 background on our data. The dataset we analyzed was a supply chain dataset used by the
 company DataCo Global.
 The link to this dataset can be found here:
+
 [link for the dataset](https://www.kaggle.com/shashwatwork/dataco-smart-supply-chain-for-big-data-analysis)
